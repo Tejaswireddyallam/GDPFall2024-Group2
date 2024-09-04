@@ -8,7 +8,7 @@ Details about project charter - 09/04/2024
 Analysed about creation of  project charter. I contributed in documenting the sections in project charter.
 
 Details about Client Meeting Minutes- 1  - 09/04/2024
-I noted about meeting minutes in class. I noted about what questions asked and what questions are given. I contributed in taking notes about meeting agenda
+I noted about meeting minutes in class. I noted about what questions asked and what questions are given. I contributed in taking notes about meeting agenda.
 
 Details about problem statement - 09/04/2024
 I have analysed about problem statement document. I have done some research about project. 
