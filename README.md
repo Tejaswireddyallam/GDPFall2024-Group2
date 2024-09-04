@@ -6,3 +6,6 @@ Analysed about creation of new project repository. I have checked about issue tr
 
 Details about project charter - 09/04/2024
 Analysed about creation of  project charter. I contributed in documenting the sections in project charter.
+
+Details about Client Meeting Minutes- 1  - 09/04/2024
+I noted about meeting minutes in class. I noted about what questions asked and what questions are given. I contributed in taking notes about meeting agenda
