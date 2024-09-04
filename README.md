@@ -13,5 +13,5 @@ I noted about meeting minutes in class. I noted about what questions asked and w
 Details about problem statement - 09/04/2024
 I have analysed about problem statement document. I have done some research about project. 
 
-Action Items of Client Meeting Minutes- 1  - 09/04/2024
-I jotted down and discussed what exactly the client needs from us in the meeting, and I have taken down the minutes of the meeting.
+Action Items of Client Meeting Minutes - 1  - 09/04/2024
+I jotted down and discussed exactly what the client needs from us during the meeting, and I have taken down the meeting minutes.
