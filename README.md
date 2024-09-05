@@ -15,3 +15,4 @@ I have analysed about problem statement document. I have done some research abou
 
 Action Items of Client Meeting Minutes - 1  - 09/04/2024
 I jotted down and discussed exactly what the client needs from us during the meeting, and I have taken down the meeting minutes.
+
