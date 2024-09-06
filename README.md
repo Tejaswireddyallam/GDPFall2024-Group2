@@ -23,6 +23,8 @@ I have coordinated in documenting project charter. I have also analysed the prob
 
 09/06/2024- I analysed the problem statement and contributed in documenting problem statement.
 
+09/06/2024- I contributed to the creation of the developer's wiki page and documented the minutes of client meetings. I collected data from each team member regarding their strengths, interests, and GitHub links
+
 
 
 
