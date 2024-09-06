@@ -21,6 +21,8 @@ I jotted down and discussed exactly what the client needs from us during the mee
 09/06/2024
 I have coordinated in documenting project charter. I have also analysed the problem statement and made problem statement draft.
 
+09/06/2024- I analysed the problem statement and contributed in documenting problem statement.
+
 
 
 
