@@ -14,6 +14,10 @@ Details about problem statement - 09/04/2024
 I have analysed about problem statement. I have done some research about project.
 
 Action Items of Client Meeting Minutes - 1  - 09/04/2024
-I jotted down and discussed exactly what the client needs from us during the meeting, and I have taken down the meeting minutes.
+I jotted down and discussed exactly what the client needs from us during the meeting, and I have taken down the meeting minutes.<hr>
+
+09/06/2024 -I noted few points regarding project charter, I made a draft of project charter keypoints, I analysed how to document a project charter.
+
+
 
 
