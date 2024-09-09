@@ -31,6 +31,8 @@ I have coordinated in documenting project charter. I have also analysed the prob
 
 I have attended client meeting today and analysed about existing functional requirements to finalize the functional requirements list.
 
+Attended client meeting and discussed about the problem statement with client. I have also analysed about the problem statement to rephrase it.
+
 
 
 
