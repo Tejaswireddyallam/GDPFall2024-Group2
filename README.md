@@ -33,6 +33,8 @@ I have attended client meeting today and analysed about existing functional requ
 
 Attended client meeting and discussed about the problem statement with client. I have also analysed about the problem statement to rephrase it.
 
+I have attended client meeting and analysed about next action items which we need to do document, and also analysed about the new wiki pages.
+
 
 
 
