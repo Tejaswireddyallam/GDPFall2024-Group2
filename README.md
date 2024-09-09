@@ -29,6 +29,8 @@ I have coordinated in documenting project charter. I have also analysed the prob
 
 09/09/2024 - <br>
 
+I have attended client meeting today and analysed about existing functional requirements to finalize the functional requirements list.
+
 
 
 
