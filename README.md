@@ -35,6 +35,8 @@ Attended client meeting and discussed about the problem statement with client. I
 
 I have attended client meeting and analysed about next action items which we need to do document, and also analysed about the new wiki pages.
 
+We are done with client meeting for this week and I have collected and analyzed requirements for drafting the main functional requirements list.
+
 
 
 
