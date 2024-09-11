@@ -39,6 +39,9 @@ We are done with client meeting for this week and I have collected and analyzed 
 
 I noted the client Minutes meeting 2 ad we have attended client meeting today.Gathered few functional requirements and analysed existing wiki pages which we need to draft again
 
+09/11/2024 - <br>
+
+Today I have attended workshop and learned APA Citing. I have done some research regarding telemedicine project in google scholar and gone through some articles regarding project.
 
 
 
