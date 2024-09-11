@@ -49,5 +49,5 @@ I have attended workshop and documented some citations format. We discussed abou
 
 Today, we had a workshop related to APACitation, and I have started documenting the functional requirements list (Iteration II).
 
-
+Worked on APA Citation Format. Created new wiki pages for client minutes meeting 2 and checked existing requiremnets wiki page for update
 
