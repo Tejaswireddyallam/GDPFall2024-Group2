@@ -45,7 +45,7 @@ Today I have attended workshop and learned APA Citing. I have done some research
 
 I attended a workshop today and got to know how to cite the research paper. Discussed about the client meetings. I have done some research regarding the citations.
 
-
+I have attended workshop and documented some citations format. We discussed about the questions that we are asked in client meeting and also done some research related to our project.
 
 
 
