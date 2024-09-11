@@ -37,7 +37,7 @@ I have attended client meeting and analysed about next action items which we nee
 
 We are done with client meeting for this week and I have collected and analyzed requirements for drafting the main functional requirements list.
 
-I noted the client Minutes meeting 2 ad we have attended client meeting today.Gathered few functional requirements and analysed existing wiki pages which we need to draft again
+I noted the client Minutes meeting 2 ad we have attended client meeting today.Gathered few functional requirements and analysed existing wiki pages which we need to draft again<hr>
 
 09/11/2024 - <br>
 
