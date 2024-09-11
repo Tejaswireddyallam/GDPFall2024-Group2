@@ -43,6 +43,8 @@ I noted the client Minutes meeting 2 ad we have attended client meeting today.Ga
 
 Today I have attended workshop and learned APA Citing. I have done some research regarding telemedicine project in google scholar and gone through some articles regarding project.
 
+I attended a workshop today and got to know how to cite the research paper. Discussed about the client meetings. I have done some research regarding the citations.
+
 
 
 
