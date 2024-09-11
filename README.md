@@ -47,5 +47,7 @@ I attended a workshop today and got to know how to cite the research paper. Disc
 
 I have attended workshop and documented some citations format. We discussed about the questions that we are asked in client meeting and also done some research related to our project.
 
+Today, we had a workshop related to APACitation, and I have started documenting the functional requirements list (Iteration II).
+
 
 
