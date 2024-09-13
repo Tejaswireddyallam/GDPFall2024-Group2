@@ -60,3 +60,5 @@ After analyzing the project description, I created a draft of the functional req
 I have gone through project description and analyzed the project requirements that we are going to add in our application.
 
 I have started documenting Client Meeting Minutes II and analyzed some requirements for the Functional Requirements(Iteration I)
+
+Worked on points we need to inlcude in client meeting minutes 2 documentation.Finalized Functional requirements from previous draft version.
