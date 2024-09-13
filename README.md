@@ -58,3 +58,5 @@ I have analysed the project description and made the functional requirements lis
 After analyzing the project description, I created a draft of the functional requirements list. I have done some research on the project requirements.
 
 I have gone through project description and analyzed the project requirements that we are going to add in our application.
+
+I have started documenting Client Meeting Minutes II and analyzed some requirements for the Functional Requirements(Iteration I)
