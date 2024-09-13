@@ -56,3 +56,5 @@ Worked on APA Citation Format. Created new wiki pages for client minutes meeting
 I have analysed the project description and made the functional requirements list draft. I have also discussed about the project requirements with my team members.
 
 After analyzing the project description, I created a draft of the functional requirements list. I have done some research on the project requirements.
+
+I have gone through project description and analyzed the project requirements that we are going to add in our application.
