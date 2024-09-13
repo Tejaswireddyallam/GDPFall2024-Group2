@@ -51,3 +51,6 @@ Today, we had a workshop related to APACitation, and I have started documenting 
 
 Worked on APA Citation Format. Created new wiki pages for client minutes meeting 2 and checked existing requiremnets wiki page for update<hr>
 
+09/13/2024 - <br>
+
+I have analysed the project description and made the functional requirements list draft. I have also discussed about the project requirements with my team members.
