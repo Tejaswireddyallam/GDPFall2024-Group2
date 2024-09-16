@@ -66,3 +66,5 @@ Worked on points we need to inlcude in client meeting minutes 2 documentation.Fi
 09/16/2024 - <br>
 
 Worked on creation of use cases(Iteration 1) and prototype wiki pages. Analysed topics in use cases and draft few use cases
+
+Analyzed use cases related to user registration and prescription management, ensuring efficient and secure processes.
