@@ -72,3 +72,5 @@ Analyzed use cases related to user registration and prescription management, ens
 Analysed the prototype list and Created draft document with the list of prototypes.
 
 Analysed the creation of use cases(Iteration 1) and made a draft of some cases regarding telemedicine.
+
+Drafted initial prototype list for telemedicine app, outlining key features like login and signup page, video consultations, and medical records storage.
