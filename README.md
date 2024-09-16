@@ -61,4 +61,6 @@ I have gone through project description and analyzed the project requirements th
 
 I have started documenting Client Meeting Minutes II and analyzed some requirements for the Functional Requirements(Iteration I)
 
-Worked on points we need to inlcude in client meeting minutes 2 documentation.Finalized Functional requirements from previous draft version.
+Worked on points we need to inlcude in client meeting minutes 2 documentation.Finalized Functional requirements from previous draft version.<hr>
+
+09/16/2024 - <br>
