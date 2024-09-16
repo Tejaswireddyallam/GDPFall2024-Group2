@@ -64,3 +64,5 @@ I have started documenting Client Meeting Minutes II and analyzed some requireme
 Worked on points we need to inlcude in client meeting minutes 2 documentation.Finalized Functional requirements from previous draft version.<hr>
 
 09/16/2024 - <br>
+
+Worked on creation of use cases(Iteration 1) and prototype wiki pages. Analysed topics in use cases and draft few use cases
