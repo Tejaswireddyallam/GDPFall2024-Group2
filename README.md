@@ -70,3 +70,5 @@ Worked on creation of use cases(Iteration 1) and prototype wiki pages. Analysed 
 Analyzed use cases related to user registration and prescription management, ensuring efficient and secure processes.
 
 Analysed the prototype list and Created draft document with the list of prototypes.
+
+Analysed the creation of use cases(Iteration 1) and made a draft of some cases regarding telemedicine.
