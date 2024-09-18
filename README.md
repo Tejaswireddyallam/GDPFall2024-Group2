@@ -80,3 +80,5 @@ Drafted initial prototype list for telemedicine app, outlining key features like
 Worked on the references of investigation requirements engineering and done some research work on the android application development.
 
 Had a meeting with mentor and conducted research on reference materials, including proper citation formats for related papers. Updated project with relevant findings and reference styles.
+
+Updated project documentation with mentor-specified references and corrected citation formatting. Conducted research on user interface for better app development.
