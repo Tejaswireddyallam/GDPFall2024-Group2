@@ -82,3 +82,5 @@ Worked on the references of investigation requirements engineering and done some
 Had a meeting with mentor and conducted research on reference materials, including proper citation formats for related papers. Updated project with relevant findings and reference styles.
 
 Updated project documentation with mentor-specified references and corrected citation formatting. Conducted research on user interface for better app development.
+
+Worked on creation of updated functional requirements wiki page. Updated Requirements engineering in new wiki pages
