@@ -73,8 +73,10 @@ Analysed the prototype list and Created draft document with the list of prototyp
 
 Analysed the creation of use cases(Iteration 1) and made a draft of some cases regarding telemedicine.
 
-Drafted initial prototype list for telemedicine app, outlining key features like login and signup page, video consultations, and medical records storage.
+Drafted initial prototype list for telemedicine app, outlining key features like login and signup page, video consultations, and medical records storage.<hr>
 
 09/18/2024 - <br>
 
 Worked on the references of investigation requirements engineering and done some research work on the android application development.
+
+Had a meeting with mentor and conducted research on reference materials, including proper citation formats for related papers. Updated project with relevant findings and reference styles.
