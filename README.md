@@ -84,3 +84,5 @@ Had a meeting with mentor and conducted research on reference materials, includi
 Updated project documentation with mentor-specified references and corrected citation formatting. Conducted research on user interface for better app development.
 
 Worked on creation of updated functional requirements wiki page. Updated Requirements engineering in new wiki pages
+
+I have noted the additional requirements for our project, and we discussed some upgrades to include in our functional requirements list.
