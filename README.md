@@ -94,3 +94,5 @@ Discussed about the updated functional requirements with mentor and also contrib
 Finalized list of prototypes and updated notes from mentor discussion on functional requirements for the telemedicine app.
 
 Contributed in updation of functional requirements and added detailed use case descriptions.
+
+I have collected and analyzed some use cases and started documenting them for our project.
