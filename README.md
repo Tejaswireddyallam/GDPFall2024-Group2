@@ -92,3 +92,5 @@ I have noted the additional requirements for our project, and we discussed some 
 Discussed about the updated functional requirements with mentor and also contributed in documenting the list of proposed prototypes.
 
 Finalized list of prototypes and updated notes from mentor discussion on functional requirements for the telemedicine app.
+
+Contributed in updation of functional requirements and added detailed use case descriptions.
