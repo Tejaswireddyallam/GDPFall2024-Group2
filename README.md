@@ -88,3 +88,5 @@ Worked on creation of updated functional requirements wiki page. Updated Require
 I have noted the additional requirements for our project, and we discussed some upgrades to include in our functional requirements list.<hr>
 
 09/20/2024 - <br>
+
+Discussed about the updated functional requirements with mentor and also contributed in documenting the list of proposed prototypes.
