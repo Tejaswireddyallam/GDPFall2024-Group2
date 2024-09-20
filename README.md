@@ -90,3 +90,5 @@ I have noted the additional requirements for our project, and we discussed some 
 09/20/2024 - <br>
 
 Discussed about the updated functional requirements with mentor and also contributed in documenting the list of proposed prototypes.
+
+Finalized list of prototypes and updated notes from mentor discussion on functional requirements for the telemedicine app.
