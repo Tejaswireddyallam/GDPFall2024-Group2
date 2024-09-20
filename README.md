@@ -85,4 +85,6 @@ Updated project documentation with mentor-specified references and corrected cit
 
 Worked on creation of updated functional requirements wiki page. Updated Requirements engineering in new wiki pages
 
-I have noted the additional requirements for our project, and we discussed some upgrades to include in our functional requirements list.
+I have noted the additional requirements for our project, and we discussed some upgrades to include in our functional requirements list.<hr>
+
+09/20/2024 - <br>
