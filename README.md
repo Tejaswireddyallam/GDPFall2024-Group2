@@ -96,3 +96,5 @@ Finalized list of prototypes and updated notes from mentor discussion on functio
 Contributed in updation of functional requirements and added detailed use case descriptions.
 
 I have collected and analyzed some use cases and started documenting them for our project.
+
+Documented Usecases(Iteration 1) and Prototypes.Took feedback from client regarding functional requirements.
