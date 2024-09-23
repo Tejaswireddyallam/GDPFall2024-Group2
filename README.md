@@ -105,3 +105,5 @@ Conducted research on telemedicine security and compliance. Explored HIPAA compl
 Analyzed existing platforms, key functionalities, and compliance standards. And also discussed about the use cases with mentor.
 
 I had discussed with the mentor about use cases and also conducted intial research on user experience of tele medicine application.
+
+Analyzed about feedback on usecases.checked about admin functionality and investigated how to include that in application.
