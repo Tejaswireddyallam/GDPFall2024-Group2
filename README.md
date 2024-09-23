@@ -100,3 +100,4 @@ I have collected and analyzed some use cases and started documenting them for ou
 Documented Usecases(Iteration 1) and Prototypes.Took feedback from client regarding functional requirements.<hr>
 
 09/23/2024 - <br>
+Conducted research on telemedicine security and compliance. Explored HIPAA compliance requirements for patient data protection.
