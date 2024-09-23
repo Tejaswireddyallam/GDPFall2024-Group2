@@ -107,3 +107,5 @@ Analyzed existing platforms, key functionalities, and compliance standards. And 
 I had discussed with the mentor about use cases and also conducted intial research on user experience of tele medicine application.
 
 Analyzed about feedback on usecases.checked about admin functionality and investigated how to include that in application.
+
+We received feedback about the use cases for our telemedicine project and analyzed how to incorporate certain functionalities into it.
