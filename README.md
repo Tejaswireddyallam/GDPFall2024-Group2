@@ -103,3 +103,5 @@ Documented Usecases(Iteration 1) and Prototypes.Took feedback from client regard
 Conducted research on telemedicine security and compliance. Explored HIPAA compliance requirements for patient data protection.
 
 Analyzed existing platforms, key functionalities, and compliance standards. And also discussed about the use cases with mentor.
+
+I had discussed with the mentor about use cases and also conducted intial research on user experience of tele medicine application.
