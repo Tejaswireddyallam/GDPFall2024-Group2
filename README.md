@@ -97,4 +97,6 @@ Contributed in updation of functional requirements and added detailed use case d
 
 I have collected and analyzed some use cases and started documenting them for our project.
 
-Documented Usecases(Iteration 1) and Prototypes.Took feedback from client regarding functional requirements.
+Documented Usecases(Iteration 1) and Prototypes.Took feedback from client regarding functional requirements.<hr>
+
+09/23/2024 - <br>
