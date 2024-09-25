@@ -108,4 +108,7 @@ I had discussed with the mentor about use cases and also conducted intial resear
 
 Analyzed about feedback on usecases.checked about admin functionality and investigated how to include that in application.
 
-We received feedback about the use cases for our telemedicine project and analyzed how to incorporate certain functionalities into it.
+We received feedback about the use cases for our telemedicine project and analyzed how to incorporate certain functionalities into it.<hr>
+
+09/25/2024 - <br>
+I have done some research and defined initial user personas and gathered requirements for development of telemedicine application.
