@@ -118,3 +118,5 @@ I have initialized research on telemedicine Android application. I have defined 
 I have explored user role management and access control for secure admin operations.
 
 Updated Requirements-engineering with correct citation formats in wiki pages and created new document aswell for submission.
+
+I have begun gathering additional functionalities to address the edge cases of our project.
