@@ -114,3 +114,5 @@ We received feedback about the use cases for our telemedicine project and analyz
 I have done some research and defined initial user personas and gathered requirements for development of telemedicine application.
 
 I have initialized research on telemedicine Android application. I have defined core objectives and researching on features and testing methodologies.
+
+I have explored user role management and access control for secure admin operations.
