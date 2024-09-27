@@ -125,3 +125,5 @@ I have begun gathering additional functionalities to address the edge cases of o
 Worked on creation of new wiki page for Functional Requirements List (Iteration 2) and updated few changes
 
 I have made a few changes to our requirements engineering list and modified the document.
+
+I have contributed in making changes to Investigation: Requirments gathering.
