@@ -123,3 +123,5 @@ I have begun gathering additional functionalities to address the edge cases of o
 
 09/27/2024 - <br>
 Worked on creation of new wiki page for Functional Requirements List (Iteration 2) and updated few changes
+
+I have made a few changes to our requirements engineering list and modified the document.
