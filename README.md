@@ -119,4 +119,7 @@ I have explored user role management and access control for secure admin operati
 
 Updated Requirements-engineering with correct citation formats in wiki pages and created new document aswell for submission.
 
-I have begun gathering additional functionalities to address the edge cases of our project.
+I have begun gathering additional functionalities to address the edge cases of our project.<hr>
+
+09/27/2024 - <br>
+Worked on creation of new wiki page for Functional Requirements List (Iteration 2) and updated few changes
