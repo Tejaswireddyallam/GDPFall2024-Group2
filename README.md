@@ -138,3 +138,5 @@ I have done some research on non functional requirements and contributed in draf
 Discussed with the mentor related to the non-functional requirements changes and also contirbuted in updating functional requirements.
 
 I have discussed with the mentor and researched the implementation methods of end to end encryption protocols for telemedicine app.
+
+Worked on changes related to fucntional requirements(Iteration 2) which we got feedback from client today
