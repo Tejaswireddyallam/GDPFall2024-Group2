@@ -136,3 +136,5 @@ I have Updated and organized functional requirements alongside the requirements 
 I have done some research on non functional requirements and contributed in drafting a document.
 
 Discussed with the mentor related to the non-functional requirements changes and also contirbuted in updating functional requirements.
+
+I have discussed with the mentor and researched the implementation methods of end to end encryption protocols for telemedicine app.
