@@ -130,4 +130,7 @@ I have contributed in making changes to Investigation: Requirments gathering.
 
 Contributed to updation of Investigation: Requirements gathering and also updated findings on admin user integration.
 
-I have Updated and organized functional requirements alongside the requirements engineering list to ensure comprehensive coverage of project needs.
+I have Updated and organized functional requirements alongside the requirements engineering list to ensure comprehensive coverage of project needs.<hr>
+
+09/30/2024- <br>
+I have done some research on non functional requirements and contributed in drafting a document.
