@@ -134,3 +134,5 @@ I have Updated and organized functional requirements alongside the requirements 
 
 09/30/2024- <br>
 I have done some research on non functional requirements and contributed in drafting a document.
+
+Discussed with the mentor related to the non-functional requirements changes and also contirbuted in updating functional requirements.
