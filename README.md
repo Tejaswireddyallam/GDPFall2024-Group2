@@ -140,3 +140,5 @@ Discussed with the mentor related to the non-functional requirements changes and
 I have discussed with the mentor and researched the implementation methods of end to end encryption protocols for telemedicine app.
 
 Worked on changes related to fucntional requirements(Iteration 2) which we got feedback from client today
+
+We have reviewed our functional requirements list again with client to analyze the non-functional requirements for our project.
