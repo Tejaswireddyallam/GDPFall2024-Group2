@@ -144,3 +144,4 @@ Worked on changes related to fucntional requirements(Iteration 2) which we got f
 We have reviewed our functional requirements list again with client to analyze the non-functional requirements for our project. <hr>
 
 10/02/2024 -<br>
+worked on creation of usecases(Iteration-2) wiki  page and noted few updates which we need to change  in usecases
