@@ -149,3 +149,5 @@ worked on creation of usecases(Iteration-2) wiki  page and noted few updates whi
 Analyzed the information for non-functional requirements and started documenting them
 
 I have worked on documenting the usecases(Iteration-2).
+
+Documented comprehensive use cases for telemedicine app and also reviewed functional requirements list and updated.
