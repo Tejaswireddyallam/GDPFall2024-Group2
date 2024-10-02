@@ -145,3 +145,5 @@ We have reviewed our functional requirements list again with client to analyze t
 
 10/02/2024 -<br>
 worked on creation of usecases(Iteration-2) wiki  page and noted few updates which we need to change  in usecases
+
+Analyzed the information for non-functional requirements and started documenting them
