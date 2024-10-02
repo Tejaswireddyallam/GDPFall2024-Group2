@@ -147,3 +147,5 @@ We have reviewed our functional requirements list again with client to analyze t
 worked on creation of usecases(Iteration-2) wiki  page and noted few updates which we need to change  in usecases
 
 Analyzed the information for non-functional requirements and started documenting them
+
+I have worked on documenting the usecases(Iteration-2).
