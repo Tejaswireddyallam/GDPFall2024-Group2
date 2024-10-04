@@ -156,3 +156,5 @@ I did some research on non-functional requirements and contributed in documentat
 
 10/02/2024 -<br>
 I did some research on telemedicine application security and contributed in documenting non-functional requirements.
+
+Today I have contributed in writing relevant content to non-functional requirements and had a meeting with mentor.
