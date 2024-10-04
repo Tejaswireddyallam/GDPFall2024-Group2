@@ -152,4 +152,7 @@ I have worked on documenting the usecases(Iteration-2).
 
 Documented comprehensive use cases for telemedicine app and also reviewed functional requirements list and updated.
 
-I did some research on non-functional requirements and contributed in documentation of those requirements.
+I did some research on non-functional requirements and contributed in documentation of those requirements.<hr>
+
+10/02/2024 -<br>
+I did some research on telemedicine application security and contributed in documenting non-functional requirements.
