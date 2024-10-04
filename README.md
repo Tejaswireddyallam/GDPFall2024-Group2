@@ -160,3 +160,5 @@ I did some research on telemedicine application security and contributed in docu
 Today I have contributed in writing relevant content to non-functional requirements and had a meeting with mentor.
 
 I have analyzed some enhancements like adding admin part to our use case document
+
+Discussed with the mentor related to changes in usecases on admin part and documented them.
