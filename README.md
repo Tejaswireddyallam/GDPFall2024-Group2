@@ -158,3 +158,5 @@ I did some research on non-functional requirements and contributed in documentat
 I did some research on telemedicine application security and contributed in documenting non-functional requirements.
 
 Today I have contributed in writing relevant content to non-functional requirements and had a meeting with mentor.
+
+I have analyzed some enhancements like adding admin part to our use case document
