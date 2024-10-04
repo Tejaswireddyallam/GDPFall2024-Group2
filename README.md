@@ -162,3 +162,5 @@ Today I have contributed in writing relevant content to non-functional requireme
 I have analyzed some enhancements like adding admin part to our use case document
 
 Discussed with the mentor related to changes in usecases on admin part and documented them.
+
+worked on non functional requirements and usecases documentation
