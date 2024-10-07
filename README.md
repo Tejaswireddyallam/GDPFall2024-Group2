@@ -163,4 +163,7 @@ I have analyzed some enhancements like adding admin part to our use case documen
 
 Discussed with the mentor related to changes in usecases on admin part and documented them.
 
-worked on non functional requirements and usecases documentation
+worked on non functional requirements and usecases documentation.<hr>
+
+10/07/2024 -<br>
+I have done some research on Android's best practices for implementing real-time chat in telemedicine application.
