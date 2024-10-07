@@ -173,3 +173,5 @@ I have analysed the telemedicine workflow optimization strategies.
 I did some research and analyzed the initial plans to secure data for telemedicine application.
 
 Worked on creation of Non functional requirements(Iteration 2) wiki page and analysed the points which we need to update.
+
+I have analyzed some key points for documenting data management plan
