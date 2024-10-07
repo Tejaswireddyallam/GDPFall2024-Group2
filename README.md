@@ -167,3 +167,5 @@ worked on non functional requirements and usecases documentation.<hr>
 
 10/07/2024 -<br>
 I have done some research on Android's best practices for implementing real-time chat in telemedicine application.
+
+I have analysed the telemedicine workflow optimization strategies.
