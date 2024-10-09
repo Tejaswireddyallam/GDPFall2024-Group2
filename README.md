@@ -182,3 +182,5 @@ I have analysed non-functional requirements of telemedicine application and did 
 I have analysed the data storage strategies for patient records, appointments, and consultations.
 
 I have studied the best practices for minimizing latency in video and audio streaming of telemedicine application.
+
+I have roughly drawn the ER diagrams for documenting the Data Management Plan documentation
