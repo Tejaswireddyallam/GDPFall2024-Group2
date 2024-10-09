@@ -178,3 +178,5 @@ I have analyzed some key points for documenting data management plan. <hr>
 
 10/09/2024 -<br>
 I have analysed non-functional requirements of telemedicine application and did some research on data security of our application.
+
+I have analysed the data storage strategies for patient records, appointments, and consultations.
