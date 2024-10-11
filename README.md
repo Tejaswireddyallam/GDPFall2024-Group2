@@ -192,4 +192,6 @@ I have reviewed the telemedicine protocals for development of application and co
 
 I have reviewed existing telemedicine platforms and their key features and i have researched video conferencing tools for telemedicine application.
 
+I have worked on drafting and documenting data management plan document.
+
 
