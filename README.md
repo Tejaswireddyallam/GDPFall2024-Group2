@@ -194,4 +194,6 @@ I have reviewed existing telemedicine platforms and their key features and i hav
 
 I have worked on drafting and documenting data management plan document.
 
+worked on ER diagram , Mapping of Functional Requirements to Data Storage for application and plans to secure data.
+
 
