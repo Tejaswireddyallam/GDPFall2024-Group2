@@ -185,4 +185,7 @@ I have studied the best practices for minimizing latency in video and audio stre
 
 I have roughly drawn the ER diagrams for documenting the Data Management Plan documentation
 
-Worked on documenting Data management plan and checked tables required for Telemedicine app
+Worked on documenting Data management plan and checked tables required for Telemedicine app. <hr>
+
+10/11/2024 -<br>
+I have reviewed the telemedicine protocals for development of application and contributed in documenting non-functional requirements.
