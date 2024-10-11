@@ -190,4 +190,6 @@ Worked on documenting Data management plan and checked tables required for Telem
 10/11/2024 -<br>
 I have reviewed the telemedicine protocals for development of application and contributed in documenting non-functional requirements.
 
-I have reviewed existing telemedicine platforms and their key features and also researched video conferencing tools for telemedicine application.
+I have reviewed existing telemedicine platforms and their key features and i have researched video conferencing tools for telemedicine application.
+
+
