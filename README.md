@@ -196,5 +196,8 @@ I have worked on drafting and documenting data management plan document.
 
 worked on ER diagram , Mapping of Functional Requirements to Data Storage for application and plans to secure data.
 
-I have worked on documenting non-functional requirements(iteration-2).
+I have worked on documenting non-functional requirements(iteration-2). <hr>
+
+10/21/2024 -<br>
+Discussed with the mentor and updated the Data Management plan and also done some reasearch on encryption techniques for secure telemedicine communication.
 
