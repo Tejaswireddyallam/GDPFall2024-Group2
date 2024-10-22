@@ -206,3 +206,5 @@ I have written the minutes of the meeting where the client provided feedback and
 Noted points which we need to update as part of data management plan(iteration2) from client.
 
 I have done some research on encryption techniques and contributed in noting the points that we need to update the data management plan.
+
+Today I had a meeting with mentor regarding the updates of data management plan and drafted those points.
