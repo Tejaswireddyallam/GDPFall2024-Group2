@@ -204,3 +204,5 @@ Discussed with the mentor and updated the Data Management plan and also done som
 I have written the minutes of the meeting where the client provided feedback and suggestions on the data management plan(iteration1).
 
 Noted points which we need to update as part of data management plan(iteration2) from client.
+
+I have done some research on encryption techniques and contributed in noting the points that we need to update the data management plan.
