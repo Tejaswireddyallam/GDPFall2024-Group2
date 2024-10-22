@@ -201,3 +201,4 @@ I have worked on documenting non-functional requirements(iteration-2). <hr>
 10/21/2024 -<br>
 Discussed with the mentor and updated the Data Management plan and also done some reasearch on encryption techniques for secure telemedicine communication.
 
+I have written the minutes of the meeting where the client provided feedback and suggestions on the data management plan(iteration1).
