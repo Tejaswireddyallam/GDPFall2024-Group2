@@ -202,3 +202,5 @@ I have worked on documenting non-functional requirements(iteration-2). <hr>
 Discussed with the mentor and updated the Data Management plan and also done some reasearch on encryption techniques for secure telemedicine communication.
 
 I have written the minutes of the meeting where the client provided feedback and suggestions on the data management plan(iteration1).
+
+Noted points which we need to update as part of data management plan(iteration2) from client.
