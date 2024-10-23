@@ -207,4 +207,7 @@ Noted points which we need to update as part of data management plan(iteration2)
 
 I have done some research on encryption techniques and contributed in noting the points that we need to update the data management plan.
 
-Today I had a meeting with mentor regarding the updates of data management plan and drafted those points.
+Today I had a meeting with mentor regarding the updates of data management plan and drafted those points. <hr>
+
+10/23/2024 -<br>
+I have done some  research on push notification services for appointment reminders in telemedicine and Studied multi-user video conferencing frameworks for telemedicine consultations.
