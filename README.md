@@ -217,3 +217,5 @@ I had done research on user registration and authentication methods for developm
 I had done research on user authentication best practices for telemedicine application.
 
 I have analyzed some key points from the feedback given by the client on the data management plan.
+
+Worked on updation of ER Diagram with new tables and connections and updated datatypes.
