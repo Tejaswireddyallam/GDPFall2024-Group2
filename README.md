@@ -213,3 +213,5 @@ Today I had a meeting with mentor regarding the updates of data management plan 
 I have done some  research on push notification services for appointment reminders in telemedicine and Studied multi-user video conferencing frameworks for telemedicine consultations.
 
 I had done research on user registration and authentication methods for development of telemedicine application.
+
+I had done research on user authentication best practices for telemedicine application.
