@@ -228,3 +228,5 @@ I have contributed in adding ER diagram with patient, doctor, and appointment en
 I have drafted database schema with ER diagram for project overview.
 
 Worked on Updation of Data Management plan(Iteration 2) with new table details
+
+I have documented my key findings and analysis in the data management plan
