@@ -222,3 +222,5 @@ Worked on updation of ER Diagram with new tables and connections and updated dat
 
 10/23/2024 -<br>
 I have worked on drafting the core entities an relationships of telemedicine application.
+
+I have contributed in adding ER diagram with patient, doctor, and appointment entities for telemedicine application.
