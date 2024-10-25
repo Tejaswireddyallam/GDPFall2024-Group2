@@ -218,4 +218,7 @@ I had done research on user authentication best practices for telemedicine appli
 
 I have analyzed some key points from the feedback given by the client on the data management plan.
 
-Worked on updation of ER Diagram with new tables and connections and updated datatypes.
+Worked on updation of ER Diagram with new tables and connections and updated datatypes.<hr>
+
+10/23/2024 -<br>
+I have worked on drafting the core entities an relationships of telemedicine application.
