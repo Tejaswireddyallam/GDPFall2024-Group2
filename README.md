@@ -229,4 +229,7 @@ I have drafted database schema with ER diagram for project overview.
 
 Worked on Updation of Data Management plan(Iteration 2) with new table details
 
-I have documented my key findings and analysis in the data management plan
+I have documented my key findings and analysis in the data management plan.<hr>
+
+10/28/2024 - <br>
+Analysed what data we need to seed into sql databases for our tables.
