@@ -237,3 +237,5 @@ Analysed what data we need to seed into sql databases for our tables.
 Today I have intialized Telemedicine application in Android Studio.
 
 I have explored various telemedicine tech stacks and architectural patterns to initialize the developement of telemedicine application.
+
+I have researched the UI/UX best practices for telemedicine application.
