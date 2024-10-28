@@ -233,3 +233,5 @@ I have documented my key findings and analysis in the data management plan.<hr>
 
 10/28/2024 - <br>
 Analysed what data we need to seed into sql databases for our tables.
+
+Today I have intialized Telemedicine application in Android Studio.
