@@ -239,3 +239,5 @@ Today I have intialized Telemedicine application in Android Studio.
 I have explored various telemedicine tech stacks and architectural patterns to initialize the developement of telemedicine application.
 
 I have researched the UI/UX best practices for telemedicine application.
+
+I have researched and Analyzed the data required for the patients and doctors table 
