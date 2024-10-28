@@ -235,3 +235,5 @@ I have documented my key findings and analysis in the data management plan.<hr>
 Analysed what data we need to seed into sql databases for our tables.
 
 Today I have intialized Telemedicine application in Android Studio.
+
+I have explored various telemedicine tech stacks and architectural patterns to initialize the developement of telemedicine application.
