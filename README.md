@@ -250,3 +250,5 @@ Contirbuted in creating layouts for telemedicine application.
 Today i have contributed in drafting the seed data for telemedicine application.
 
 I have checked and updated data management plan(iteration 2) as per clients feedback
+
+Worked on creation of telemedicine_seed_data.sql file for seeding data into database
