@@ -244,3 +244,5 @@ I have researched and Analyzed the data required for the patients and doctors ta
 
 10/30/2024 - <br>
 I have created and working on main activity and login activity layouts for telemedicine application.
+
+Contirbuted in creating layouts for telemedicine application.
