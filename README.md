@@ -240,4 +240,7 @@ I have explored various telemedicine tech stacks and architectural patterns to i
 
 I have researched the UI/UX best practices for telemedicine application.
 
-I have researched and Analyzed the data required for the patients and doctors table 
+I have researched and Analyzed the data required for the patients and doctors table.<hr>
+
+10/30/2024 - <br>
+I have created and working on main activity and login activity layouts for telemedicine application.
