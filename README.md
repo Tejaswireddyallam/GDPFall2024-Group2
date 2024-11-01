@@ -255,3 +255,5 @@ Worked on creation of telemedicine_seed_data.sql file for seeding data into data
 
 11/01/2024 - <br>
 updated seed data wiki page with creation,insertion and table validations.
+
+I have added comments to seed data for initial patient records and Added description for seed data in medication history records.
