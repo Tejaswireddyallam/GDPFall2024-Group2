@@ -259,3 +259,5 @@ updated seed data wiki page with creation,insertion and table validations.
 I have added comments to seed data for initial patient records and Added description for seed data in medication history records.
 
 I have contributed in documenting the seed data of telemedicine application.
+
+I have analyzed the updated data management plan and contributed in developing the seed data.
