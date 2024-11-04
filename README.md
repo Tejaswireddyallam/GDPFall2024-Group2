@@ -266,3 +266,5 @@ I am working on creating xml files for telemedicine application.<hr>
 
 11/04/2024 - <br>
 Analysed existing problem statement and list of proposed prototypes for correction.
+
+We reviewed the existing list of prototypes of our project and discussed potential improvements and suggestions.
