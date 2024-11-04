@@ -268,3 +268,5 @@ I am working on creating xml files for telemedicine application.<hr>
 Analysed existing problem statement and list of proposed prototypes for correction.
 
 We reviewed the existing list of prototypes of our project and discussed potential improvements and suggestions.
+
+Discussed with the mentor and updated the list of proposed prototypes and also reviewed the problem statement for telemedicine Application.
