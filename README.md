@@ -262,4 +262,7 @@ I have contributed in documenting the seed data of telemedicine application.
 
 I have analyzed the updated data management plan and contributed in developing the seed data.
 
-I am working on creating xml files for telemedicine application.
+I am working on creating xml files for telemedicine application.<hr>
+
+11/04/2024 - <br>
+Analysed existing problem statement and list of proposed prototypes for correction.
