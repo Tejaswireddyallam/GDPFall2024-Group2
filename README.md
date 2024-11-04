@@ -270,3 +270,5 @@ Analysed existing problem statement and list of proposed prototypes for correcti
 We reviewed the existing list of prototypes of our project and discussed potential improvements and suggestions.
 
 Discussed with the mentor and updated the list of proposed prototypes and also reviewed the problem statement for telemedicine Application.
+
+Reviewed the list of prototyes and drafted the requirements for updation of iteration 2.
