@@ -273,4 +273,8 @@ Discussed with the mentor and updated the list of proposed prototypes and also r
 
 Reviewed the list of prototyes and drafted the requirements for updation of iteration 2.
 
-Reviewed the problem statement to update the list of prototypes for telemedicine application.
+Reviewed the problem statement to update the list of prototypes for telemedicine application.<hr>
+
+11/06/2024 - <br>
+Today I am working on creation of register XML file for telemedicine application.
+
