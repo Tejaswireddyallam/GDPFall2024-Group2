@@ -283,3 +283,6 @@ I have reviewed our list of prototypes document to assess if any additional impr
 Worked on creation of new wiki page for problem statement(Draft 2 ) and updated few changes.
 
 Contributed in creation of layout design for telemedicine application.
+
+I have updated the changes related to the list of prototypes and also updated few changes in problem statement (Draft 2).
+
