@@ -293,3 +293,4 @@ I have documented all the upgrades related to the problem statement for Iteratio
 
 Contributed in documenting the list of prototypes Iteration 2 and also updated few changes.
 
+Contributed in creating layouts for telemedicine application.
