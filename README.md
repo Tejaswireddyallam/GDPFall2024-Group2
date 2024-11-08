@@ -284,5 +284,8 @@ Worked on creation of new wiki page for problem statement(Draft 2 ) and updated 
 
 Contributed in creation of layout design for telemedicine application.
 
-I have updated the changes related to the list of prototypes and also updated few changes in problem statement (Draft 2).
+I have updated the changes related to the list of prototypes and also updated few changes in problem statement (Draft 2).<hr>
+
+11/08/2024 - <br>
+Worked on creation of new wiki page for list of prototypes Iteration 2 and updated few changes.
 
