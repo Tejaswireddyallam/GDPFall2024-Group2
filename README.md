@@ -295,4 +295,7 @@ Contributed in documenting the list of prototypes Iteration 2 and also updated f
 
 Contributed in creating layouts for telemedicine application.
 
-Created launch screen and register screen and also documented list of prototypes 
+Created launch screen and register screen and also documented list of prototypes. <hr>
+
+11/11/2024 - <br>
+Analyzed our functional requirements whether there are any updates to update.
