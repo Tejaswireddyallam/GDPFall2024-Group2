@@ -299,3 +299,5 @@ Created launch screen and register screen and also documented list of prototypes
 
 11/11/2024 - <br>
 Analyzed our functional requirements whether there are any updates to update.
+
+I have reviewed the all requirements of our project again and discussed potential improvements and suggestions.
