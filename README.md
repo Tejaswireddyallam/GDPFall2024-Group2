@@ -303,3 +303,5 @@ Analyzed our functional requirements whether there are any updates to update.
 I have reviewed the all requirements of our project again and discussed potential improvements and suggestions.
 
 Discussed with the mentor and updated the changes related to usecases(iteration 2) and Non-functional requirements.
+
+Conducted a comprehensive review of requirements for telemedicine application development.
