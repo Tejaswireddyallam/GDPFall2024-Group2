@@ -314,3 +314,5 @@ Worked on organization of git wiki link and creation of new folders in wiki repo
 Working on software requirement specifications for telemedicine application.
 
 Drafting software requirements for the development of telemedicine application.
+
+Conducted a review on final functional requirements.
