@@ -306,4 +306,7 @@ Discussed with the mentor and updated the changes related to usecases(iteration 
 
 Conducted a comprehensive review of requirements for telemedicine application development.
 
-Analysed project requirements for feasibility to develop android application.
+Analysed project requirements for feasibility to develop android application.<hr>
+
+11/13/2024 - <br>
+Worked on organization of git wiki link and creation of new folders in wiki repository.
