@@ -312,3 +312,5 @@ Analysed project requirements for feasibility to develop android application.<hr
 Worked on organization of git wiki link and creation of new folders in wiki repository.
 
 Working on software requirement specifications for telemedicine application.
+
+Drafting software requirements for the development of telemedicine application.
