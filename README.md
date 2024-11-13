@@ -316,3 +316,5 @@ Working on software requirement specifications for telemedicine application.
 Drafting software requirements for the development of telemedicine application.
 
 Conducted a review on final functional requirements.
+
+I have analyzed gathered some required information for documenting software requirements specification
