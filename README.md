@@ -325,3 +325,5 @@ Worked on finalizing the functional requirements, organized git repository.
 Added and styled XML structure for dashboard screen of telemedicine application.
 
 Contributed in the creation of layout designing of telemedicine application. 
+
+I have checked some of our iteration documentations, and checking if any improvements needed.
