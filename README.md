@@ -317,4 +317,7 @@ Drafting software requirements for the development of telemedicine application.
 
 Conducted a review on final functional requirements.
 
-I have analyzed gathered some required information for documenting software requirements specification
+I have analyzed gathered some required information for documenting software requirements specification.<hr>
+
+11/15/2024 - <br>
+Worked on finalizing the functional requirements, organized git repository.
