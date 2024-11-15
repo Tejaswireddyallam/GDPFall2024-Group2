@@ -323,3 +323,5 @@ I have analyzed gathered some required information for documenting software requ
 Worked on finalizing the functional requirements, organized git repository.
 
 Added and styled XML structure for dashboard screen of telemedicine application.
+
+Contributed in the creation of layout designing of telemedicine application. 
