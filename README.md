@@ -321,3 +321,5 @@ I have analyzed gathered some required information for documenting software requ
 
 11/15/2024 - <br>
 Worked on finalizing the functional requirements, organized git repository.
+
+Added and styled XML structure for dashboard screen of telemedicine application.
