@@ -327,3 +327,7 @@ Added and styled XML structure for dashboard screen of telemedicine application.
 Contributed in the creation of layout designing of telemedicine application. 
 
 I have checked some of our iteration documentations, and checking if any improvements needed.
+
+I have reviewed iteration plans and suggested improvements for deliverables and added comments to key XML files.
+
+
