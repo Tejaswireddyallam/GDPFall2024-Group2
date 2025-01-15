@@ -334,3 +334,5 @@ I have reviewed iteration plans and suggested improvements for deliverables and 
 01/15/2025
 
 I am currently working on implementing the registration functionality details for both patients and doctors, along with setting up the MySQL database
+
+I have started working on configuring the MySQL database structure for appointments and user registration. Making use of my expertise in MySQL, SQL, and database design to put the necessary tables and relationships in place for effective data management and storage.
