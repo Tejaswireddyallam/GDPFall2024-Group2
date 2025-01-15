@@ -336,3 +336,5 @@ I have reviewed iteration plans and suggested improvements for deliverables and 
 I am currently working on implementing the registration functionality details for both patients and doctors, along with setting up the MySQL database
 
 I have started working on configuring the MySQL database structure for appointments and user registration. Making use of my expertise in MySQL, SQL, and database design to put the necessary tables and relationships in place for effective data management and storage.
+
+I am working on Frontend developement and integration which allows Patients to Update Personal Details. I am working on it because I have expertise in frontend development, creating user-friendly interfaces, and integrating with backend systems to ensure seamless data synchronization.
