@@ -332,3 +332,5 @@ I have reviewed iteration plans and suggested improvements for deliverables and 
 
 # GDPSpring2025-Group2 <br>
 01/15/2025
+
+I am currently working on implementing the registration functionality details for both patients and doctors, along with setting up the MySQL database
