@@ -328,7 +328,7 @@ Contributed in the creation of layout designing of telemedicine application.
 
 I have checked some of our iteration documentations, and checking if any improvements needed.
 
-I have reviewed iteration plans and suggested improvements for deliverables and added comments to key XML files.
+I have reviewed iteration plans and suggested improvements for deliverables and added comments to key XML files.<hr><hr>
 
 # GDPSpring2025-Group2 <br>
 01/15/2025
@@ -338,3 +338,5 @@ I am currently working on implementing the registration functionality details fo
 I have started working on configuring the MySQL database structure for appointments and user registration. Making use of my expertise in MySQL, SQL, and database design to put the necessary tables and relationships in place for effective data management and storage.
 
 I am working on Frontend developement and integration which allows Patients to Update Personal Details. I am working on it because I have expertise in frontend development, creating user-friendly interfaces, and integrating with backend systems to ensure seamless data synchronization.
+
+I will work on the backend API to enable doctors to manage and update their professional details, including qualifications, specialties, availability, and contact information. This functionality is essential for allowing doctors to update their profiles, ensuring the system meets this critical requirement
