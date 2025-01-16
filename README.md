@@ -340,3 +340,5 @@ I have started working on configuring the MySQL database structure for appointme
 I am working on Frontend developement and integration which allows Patients to Update Personal Details. I am working on it because I have expertise in frontend development, creating user-friendly interfaces, and integrating with backend systems to ensure seamless data synchronization.
 
 I will work on the backend API to enable doctors to manage and update their professional details, including qualifications, specialties, availability, and contact information. This functionality is essential for allowing doctors to update their profiles, ensuring the system meets this critical requirement
+
+I have started working on Creating a foundational Android project structure with folders for UI, models, and controllers. I am also working on setting up an Android app project with scalable architecture and essential components. Designed user-friendly registration UI and placeholder screens for login and profile setup.
