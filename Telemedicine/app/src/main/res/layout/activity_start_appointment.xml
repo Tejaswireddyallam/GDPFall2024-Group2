@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StartAppointmentActivity">
+
+    <!-- Back Button -->
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/back_arrow"
+        android:contentDescription="Back Button"
+        app:tint="@color/black" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Appointment Scheduler"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="16dp" />
+
+    <!-- Calendar View for Date Selection -->
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" />
+
+    <!-- Time Slots Section -->
+    <TextView
+        android:id="@+id/tvTimeSlotsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Available Time Slots:"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp" />
+
+    <GridLayout
+        android:id="@+id/gridTimeSlots"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:rowCount="4"
+        android:layout_marginTop="8dp">
+    </GridLayout>
+
+
+    <!-- Button to Confirm Appointment -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnConfirmAppointment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm Appointment"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="16dp"
+        app:strokeColor="@color/Btn_color"
+        android:backgroundTint="@color/Btn_color"
+        app:cornerRadius="32dp"/>
+</LinearLayout>

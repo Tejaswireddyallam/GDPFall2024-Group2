@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="8dp">
+
+    <!-- Profile Picture -->
+    <ImageView
+        android:id="@+id/img_profile_picture"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/ic_doctor"
+        android:scaleType="centerCrop"
+        android:layout_marginEnd="8dp" />
+
+    <!-- Doctor Details -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_doctor_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dr. John Doe"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/tv_specialization"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cardiologist"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray" />
+
+        <TextView
+            android:id="@+id/tv_qualification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MBBS, MD"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray" />
+
+        <TextView
+            android:id="@+id/tv_availability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Available: 10:00 AM - 2:00 PM"
+            android:textSize="14sp"
+            android:textColor="@android:color/holo_green_dark" />
+    </LinearLayout>
+
+    <!-- Get Appointment Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_get_appointment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Appointment"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        app:strokeColor="@color/Btn_color"
+        android:backgroundTint="@color/Btn_color"
+        app:cornerRadius="32dp"
+        android:textColor="@android:color/white" />
+</LinearLayout>

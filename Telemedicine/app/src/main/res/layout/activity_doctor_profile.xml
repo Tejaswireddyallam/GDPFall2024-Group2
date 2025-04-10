@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#F9F9F9"
+    android:padding="16dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DoctorProfileActivity">
+
+        <!-- Back Button -->
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Back Button"
+            android:src="@drawable/back_arrow"
+            app:tint="@color/black"
+            tools:ignore="MissingConstraints,TouchTargetSizeCheck" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animation="@android:anim/fade_in"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints">
+
+
+            <!-- Profile Section -->
+            <TextView
+                android:id="@+id/tvProfileTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:gravity="center"
+                android:text="Profile"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/ivProfilePicture"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp"
+                android:background="#E0E0E0"
+                android:elevation="4dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/doctor_icon"
+                android:transitionName="profileImage" />
+
+            <TextView
+                android:id="@+id/tvUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                android:text="John Doe"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!-- Edit Profile Button -->
+            <Button
+                android:id="@+id/btnEditProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="24dp"
+                android:backgroundTint="@color/Btn_color"
+                android:text="Edit Profile"
+                android:textColor="#FFFFFF"
+                app:cornerRadius="32dp"
+                app:strokeColor="@color/Btn_color" />
+
+            <!-- User Info Section -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="#FFFFFF"
+                android:elevation="4dp"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:transitionName="userInfoCard">
+
+                <EditText
+                    android:id="@+id/etUsername"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Username"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:paddingBottom="8dp"
+                    android:text="john_doe"
+                    android:textColor="@color/black" />
+
+                <EditText
+                    android:id="@+id/etEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Email"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:paddingBottom="8dp"
+                    android:text="axxxxx@gmail.com"
+                    android:textColor="@color/black" />
+
+                <EditText
+                    android:id="@+id/etGender"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Gender"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:paddingBottom="8dp"
+                    android:text=""
+                    android:textColor="@color/black" />
+
+
+                <EditText
+                    android:id="@+id/etDob"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#E0E0E0"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Date of Birth"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:paddingBottom="8dp"
+                    android:textColor="@color/black" />
+
+                <EditText
+                    android:id="@+id/etMobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Mobile Number"
+                    android:inputType="number"
+                    android:minHeight="48dp"
+                    android:padding="10dp" />
+
+                <EditText
+                    android:id="@+id/etAvailability"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Availability"
+                    android:inputType="textPostalAddress"
+                    android:minHeight="48dp"
+                    android:padding="10dp" />
+                <EditText
+                    android:id="@+id/etSpecialization"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Specialization"
+                    android:inputType="textPostalAddress"
+                    android:minHeight="48dp"
+                    android:padding="10dp" />
+                <EditText
+                    android:id="@+id/etQualification"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="12dp"
+                    android:enabled="false"
+                    android:hint="Qualification"
+                    android:inputType="textPostalAddress"
+                    android:minHeight="48dp"
+                    android:padding="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- Bottom Navigation -->
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNavigationView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            app:itemIconTint="@drawable/nav_item_color_state"
+            app:itemTextColor="@drawable/nav_item_color_state"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:menu="@menu/menu_main" />
+</androidx.constraintlayout.widget.ConstraintLayout>

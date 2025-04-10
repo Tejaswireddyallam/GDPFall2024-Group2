@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".SearchDoctorActivity">
+
+    <!-- Back Button -->
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/back_arrow"
+        android:contentDescription="Back Button"
+        app:tint="@color/black" />
+
+    <!-- Search View -->
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="Search by name, specialization, or disease"
+        android:textColorHint="#757575"
+        android:textSize="16sp"
+        android:background="@drawable/search_view_bg"
+        android:padding="12dp"/>
+
+    <!-- RecyclerView for Doctors List -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_doctors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+        android:layoutAnimation="@anim/search_layout_animation"/>
+</LinearLayout>

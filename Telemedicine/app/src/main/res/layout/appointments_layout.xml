@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/appointment_card_bg"
+    android:elevation="4dp"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:layout_margin="8dp">
+
+    <!-- Doctor Details -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <!-- Doctor Image -->
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/circle_bg"
+            android:scaleType="centerCrop"
+            android:src="@drawable/person_edittext" />
+    </LinearLayout>
+    <View
+        android:layout_width="10dp"
+        android:layout_height="50dp"/>
+    <!-- Appointment Details -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dr. Indu Rebecca"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tvAppointmentTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="08:00 PM to 09:00 PM"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+        <TextView
+            android:id="@+id/tvAppointmentDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="16/01/2025"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+        <!-- Status Indicator -->
+        <TextView
+            android:id="@+id/tvStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Pending"
+            android:textColor="@color/orange"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+    <!-- Action Buttons -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnStart"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Start"
+            android:layout_marginBottom="8dp"
+            app:strokeColor="@color/green"
+            android:backgroundTint="@color/green"
+            app:cornerRadius="20dp"
+            android:textColor="@color/white"
+            android:visibility="visible"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCancel"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:text="Cancel"
+            app:strokeColor="@color/red"
+            android:backgroundTint="@color/red"
+            app:cornerRadius="20dp"
+            android:textColor="@color/white"
+            android:visibility="gone"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnReschedule"
+            android:layout_width="125dp"
+            android:layout_height="40dp"
+            android:text="Reschedule"
+            app:strokeColor="@color/light_blue"
+            android:backgroundTint="@color/light_blue"
+            app:cornerRadius="20dp"
+            android:textColor="@color/white"
+            android:visibility="gone"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnChat"
+            android:layout_width="123dp"
+            android:layout_height="40dp"
+            android:text="Chat"
+            app:strokeColor="@color/light_blue"
+            android:backgroundTint="@color/light_blue"
+            app:cornerRadius="20dp"
+            android:textColor="@color/white"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+</LinearLayout>
