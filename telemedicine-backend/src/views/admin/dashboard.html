@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Admin Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans min-h-screen">
+  <div class="flex justify-between items-center p-6 bg-white shadow-md">
+    <h1 class="text-2xl font-bold text-blue-700">Admin Dashboard</h1>
+    <button id="logoutBtn" class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">Logout</button>
+  </div>
+
+  <div class="p-6">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+      <input id="searchDate" type="date" class="border rounded px-3 py-2 w-full" />
+      <select id="roleFilter" class="border rounded px-3 py-2 w-full">
+        <option value="">All Roles</option>
+        <option value="patient">Patient</option>
+        <option value="doctor">Doctor</option>
+      </select>
+      <select id="sortBy" class="border rounded px-3 py-2 w-full">
+        <option value="desc">Newest First</option>
+        <option value="asc">Oldest First</option>
+      </select>
+    </div>
+
+    <div id="logsContainer" class="space-y-4"></div>
+
+    <div class="mt-6 flex justify-center space-x-4">
+      <button id="prevBtn" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Prev</button>
+      <button id="nextBtn" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Next</button>
+    </div>
+  </div>
+
+  <script>
+    let currentPage = 1;
+    const limit = 10;
+
+    document.getElementById('logoutBtn').onclick = () => {
+      sessionStorage.clear();
+      window.location.href = 'index.html';
+    };
+
+    if (sessionStorage.getItem('adminLoggedIn') !== 'true') {
+      window.location.href = 'index.html';
+    }
+
+    document.getElementById('roleFilter').onchange =
+    document.getElementById('searchDate').onchange =
+    document.getElementById('sortBy').onchange = () => {
+      currentPage = 1;
+      fetchLogs();
+    };
+
+    document.getElementById('prevBtn').onclick = () => {
+      if (currentPage > 1) {
+        currentPage--;
+        fetchLogs();
+      }
+    };
+
+    document.getElementById('nextBtn').onclick = () => {
+      currentPage++;
+      fetchLogs();
+    };
+
+    async function fetchLogs() {
+      const role = document.getElementById('roleFilter').value;
+      const date = document.getElementById('searchDate').value;
+      const sort = document.getElementById('sortBy').value;
+
+      let query = `?page=${currentPage}&limit=${limit}&sort=${sort}`;
+      if (role) query += `&role=${role}`;
+      if (date) query += `&date=${date}`;
+
+      const res = await fetch(`/api/admin/activitylogs${query}`);
+      const logs = await res.json();
+      const container = document.getElementById('logsContainer');
+      container.innerHTML = '';
+
+      if (logs.length === 0 && currentPage > 1) {
+        currentPage--;
+        return fetchLogs();
+      }
+
+      logs.forEach(log => {
+        const div = document.createElement('div');
+        div.className = 'bg-white shadow-md rounded p-4';
+        div.innerHTML = `
+          <p class="text-gray-600 text-sm mb-1"><strong>User ID:</strong> ${log.UserID} | <strong>Role:</strong> ${log.Role}</p>
+          <p class="mb-2 text-gray-800">${log.Description}</p>
+          <p class="text-sm text-gray-500 mb-2"><strong>Date:</strong> ${new Date(log.LogDatetime).toLocaleString()}</p>
+          <div class="flex items-center space-x-3">
+            <span class="text-sm font-medium text-gray-700">Status:</span>
+            <span class="text-sm px-2 py-1 bg-gray-200 rounded">${log.Status}</span>
+            <select onchange="updateStatus(${log.LogID}, this.value)" class="ml-auto border px-2 py-1 rounded text-sm">
+              <option value="">Update Status</option>
+              <option value="Pending">Pending</option>
+              <option value="Resolved">Resolved</option>
+              <option value="Ignored">Ignored</option>
+            </select>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    async function updateStatus(logId, newStatus) {
+      if (!newStatus) return;
+      const res = await fetch(`/api/admin/activitylogs/${logId}/status`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ status: newStatus })
+      });
+
+      if (res.ok) {
+        alert('Status updated');
+        fetchLogs();
+      } else {
+        alert('Failed to update status');
+      }
+    }
+
+    fetchLogs();
+  </script>
+</body>
+</html>
