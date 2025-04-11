@@ -184,12 +184,16 @@ public class DashboardActivity extends AppCompatActivity {
         submitButton.setOnClickListener(v -> {
             String feedback = feedbackInput.getText().toString().trim();
             if (!feedback.isEmpty()) {
+
+                ActivityLogHelper.submitLog(DashboardActivity.this, Integer.parseInt(patientId), feedback, "patient");
+
                 Toast.makeText(this, "Thank you for your feedback!", Toast.LENGTH_SHORT).show();
                 dialog.dismiss();
             } else {
                 feedbackInput.setError("Please enter some feedback.");
             }
         });
+
 
         dialog.show();
     }

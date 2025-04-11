@@ -186,6 +186,9 @@ public class DoctorDashboardActivity extends AppCompatActivity {
         submitButton.setOnClickListener(v -> {
             String feedback = feedbackInput.getText().toString().trim();
             if (!feedback.isEmpty()) {
+
+                ActivityLogHelper.submitLog(DoctorDashboardActivity.this, Integer.parseInt(doctorId), feedback, "doctor");
+
                 Toast.makeText(this, "Thank you for your feedback!", Toast.LENGTH_SHORT).show();
                 dialog.dismiss();
             } else {
